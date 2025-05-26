@@ -66,13 +66,16 @@ Se tiver algo em mente, bora codar juntos!
 ### 📫 Onde me encontrar
 
 <p>
-  <a href="https://linkedin.com/https://www.linkedin.com/in/wandersonvilanova" target="_blank">
+  <a href="https://www.linkedin.com/in/wandersonvilanova/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  
-  <a href="https://SEU_SITE.com" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-000?style=flat&logo=About.me&logoColor=white" alt="Portfólio">
+  </a>
+  <a href="mailto:wandersonvn00@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white" alt="E-mail">
   </a>
 </p>
 
 ---
+
